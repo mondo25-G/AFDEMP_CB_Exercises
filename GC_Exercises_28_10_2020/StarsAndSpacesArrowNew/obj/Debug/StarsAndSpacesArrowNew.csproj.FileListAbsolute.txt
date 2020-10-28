@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\GC_Exercises_28_10_2020\StarsAndSpacesArrowNew\bin\Debug\StarsAndSpacesArrowNew.exe.config
+C:\Users\hp\source\repos\GC_Exercises_28_10_2020\StarsAndSpacesArrowNew\bin\Debug\StarsAndSpacesArrowNew.exe
+C:\Users\hp\source\repos\GC_Exercises_28_10_2020\StarsAndSpacesArrowNew\bin\Debug\StarsAndSpacesArrowNew.pdb
+C:\Users\hp\source\repos\GC_Exercises_28_10_2020\StarsAndSpacesArrowNew\obj\Debug\StarsAndSpacesArrowNew.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\GC_Exercises_28_10_2020\StarsAndSpacesArrowNew\obj\Debug\StarsAndSpacesArrowNew.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\GC_Exercises_28_10_2020\StarsAndSpacesArrowNew\obj\Debug\StarsAndSpacesArrowNew.exe
+C:\Users\hp\source\repos\GC_Exercises_28_10_2020\StarsAndSpacesArrowNew\obj\Debug\StarsAndSpacesArrowNew.pdb

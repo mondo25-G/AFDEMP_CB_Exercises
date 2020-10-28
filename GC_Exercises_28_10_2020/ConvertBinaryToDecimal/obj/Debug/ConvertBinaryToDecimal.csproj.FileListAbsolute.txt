@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\GC_Exercises_28_10_2020\ConvertBinaryToDecimal\bin\Debug\ConvertBinaryToDecimal.exe.config
+C:\Users\hp\source\repos\GC_Exercises_28_10_2020\ConvertBinaryToDecimal\bin\Debug\ConvertBinaryToDecimal.exe
+C:\Users\hp\source\repos\GC_Exercises_28_10_2020\ConvertBinaryToDecimal\bin\Debug\ConvertBinaryToDecimal.pdb
+C:\Users\hp\source\repos\GC_Exercises_28_10_2020\ConvertBinaryToDecimal\obj\Debug\ConvertBinaryToDecimal.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\GC_Exercises_28_10_2020\ConvertBinaryToDecimal\obj\Debug\ConvertBinaryToDecimal.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\GC_Exercises_28_10_2020\ConvertBinaryToDecimal\obj\Debug\ConvertBinaryToDecimal.exe
+C:\Users\hp\source\repos\GC_Exercises_28_10_2020\ConvertBinaryToDecimal\obj\Debug\ConvertBinaryToDecimal.pdb
