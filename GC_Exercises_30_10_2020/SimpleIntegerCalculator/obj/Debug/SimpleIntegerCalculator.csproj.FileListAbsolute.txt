@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\GC_Exercises_30_10_2020\SimpleIntegerCalculator\obj\Debug\SimpleIntegerCalculator.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\GC_Exercises_30_10_2020\SimpleIntegerCalculator\obj\Debug\SimpleIntegerCalculator.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\GC_Exercises_30_10_2020\SimpleIntegerCalculator\bin\Debug\SimpleIntegerCalculator.exe.config
+C:\Users\hp\source\repos\GC_Exercises_30_10_2020\SimpleIntegerCalculator\bin\Debug\SimpleIntegerCalculator.exe
+C:\Users\hp\source\repos\GC_Exercises_30_10_2020\SimpleIntegerCalculator\bin\Debug\SimpleIntegerCalculator.pdb
+C:\Users\hp\source\repos\GC_Exercises_30_10_2020\SimpleIntegerCalculator\obj\Debug\SimpleIntegerCalculator.exe
+C:\Users\hp\source\repos\GC_Exercises_30_10_2020\SimpleIntegerCalculator\obj\Debug\SimpleIntegerCalculator.pdb
