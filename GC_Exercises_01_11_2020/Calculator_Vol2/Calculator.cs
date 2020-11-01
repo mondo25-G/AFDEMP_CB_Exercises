@@ -45,51 +45,51 @@ namespace Calculator_Vol2
 
         }
 
-        public int Add()
+        public double Add()
         {
             return (Calculate(x, y, '+'));
         }
 
-        public int Subtract()
+        public double Subtract()
         {
             return (Calculate(x, y, '-'));
         }
 
-        public int Multiply()
+        public double Multiply()
         {
             return (Calculate(x, y, '*'));
         }
 
-        public int Divide()
+        public double Divide()
         {
             return (Calculate(x, y, '/'));
         }
         //overloaded
-        public int Add(int x, int y)
+        public double Add(int x, int y)
         {
 
             return (Calculate(x, y, '+'));
         }
 
-        public int Subtract(int x, int y)
+        public double Subtract(int x, int y)
         {
             return (Calculate(x, y, '-'));
         }
 
-        public int Multiply(int x, int y)
+        public double Multiply(int x, int y)
         {
 
             return (Calculate(x, y, '*'));
         }
 
-        public int Divide(int x, int y)
+        public double Divide(int x, int y)
         {
             return (Calculate(x, y, '/'));
         }
 
         //private methods
 
-        private int Calculate(int x, int y, char oper)
+        private double Calculate(int x, int y, char oper)
         {
             //bool divByZero;
             //int result = 0;
@@ -123,7 +123,7 @@ namespace Calculator_Vol2
             //}
 
 
-            int result;
+            double result;
             switch (oper) //searched for another way
             {
                 case '+':
@@ -153,10 +153,10 @@ namespace Calculator_Vol2
         //perform operation
         //if division by 0 occured set y=0 and reassign x,y
         //return result
-        private int Operation(char oper, bool isDivision, int x, int y)
+        private double Operation(char oper, bool isDivision, int x, int y)
         {
             bool divByZero = AssignFieldValue(x, y, isDivision);
-            int result = Operations(oper, this.x, this.y);
+            double result = Operations(oper, this.x, this.y);
             RevertFieldValue(x, y, divByZero);
             return result;
         }
@@ -214,9 +214,9 @@ namespace Calculator_Vol2
         //It doesn't matter if I have accounted for division by zero in AssignFieldValue()
         //This has more to do with the particular parametrical definition of the Dictionary in this case. (I think.) 
 
-        private int Operations(char oper, int x, int y)
+        private double Operations(char oper, double x, double y)
         {
-            Dictionary<char, int> operations = new Dictionary<char, int>
+            Dictionary<char, double> operations = new Dictionary<char, double>
             {
                 {'+', (x + y)},  //(x+y)=always an int for all ints x,y
                 {'-', (x - y)}, //(x-y)=always an int for all ints x,y
