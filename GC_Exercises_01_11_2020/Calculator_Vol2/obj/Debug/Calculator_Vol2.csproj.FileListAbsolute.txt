@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\GC_Exercises_01_11_2020\Calculator_Vol2\bin\Debug\Calculator_Vol2.exe.config
+C:\Users\hp\source\repos\GC_Exercises_01_11_2020\Calculator_Vol2\bin\Debug\Calculator_Vol2.exe
+C:\Users\hp\source\repos\GC_Exercises_01_11_2020\Calculator_Vol2\bin\Debug\Calculator_Vol2.pdb
+C:\Users\hp\source\repos\GC_Exercises_01_11_2020\Calculator_Vol2\obj\Debug\Calculator_Vol2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\GC_Exercises_01_11_2020\Calculator_Vol2\obj\Debug\Calculator_Vol2.exe
+C:\Users\hp\source\repos\GC_Exercises_01_11_2020\Calculator_Vol2\obj\Debug\Calculator_Vol2.pdb
